@@ -123,6 +123,7 @@ const personae = [
     {'arcana': 'Strength',    'level': 50, 'name': 'Kali',              },
     
     {'arcana': 'Strength',    'level': 63, 'name': 'Siegfried',         },
+    {'arcana' : 'Strength',   'level': 70, 'name': 'Chimera'},
     {'arcana': 'Strength',    'level': 90, 'name': 'Zaou-Gongen',       'max': true, },
     { 'arcana': 'Hanged Man', 'level': 10, 'name': 'Inugami' },
     {'arcana': 'Hanged Man',  'level': 15, 'name': 'Berith',            },
